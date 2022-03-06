@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "holamundo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
